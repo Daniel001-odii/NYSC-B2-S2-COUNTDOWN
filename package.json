@@ -1,0 +1,12 @@
+{
+  "name": "nysc-countdown-api",
+  "version": "1.0.0",
+  "description": "Returns a PNG image showing days left to NYSC Batch B2 2026 pass-out (Aug 25, 2026)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
